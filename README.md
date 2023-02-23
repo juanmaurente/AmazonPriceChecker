@@ -32,7 +32,7 @@ Enable developer mode by toggling the switch on the top right.
 Click on "Load unpacked" and select the build folder in the chrome-extension directory.
 The extension is now installed and can be accessed by clicking on its icon in the Chrome toolbar.
 When the extension is enabled, it will run the automation tool automatically.
-##Credits
+## Credits
 This project was created by Juan Maurente.
 
 License
